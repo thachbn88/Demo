@@ -50,7 +50,6 @@ DEMO1
 Installation & Setup
 	1️. Clone the Repository
 		git clone <repository-url>
-		cd DEMO1
 
 	2. Install Dependencies
 		npm install
